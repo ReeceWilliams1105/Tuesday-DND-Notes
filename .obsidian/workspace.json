@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "b920ae5c1d1d0a7f",
+        "id": "a4346e8a1cc34f26",
         "type": "tabs",
         "children": [
           {
-            "id": "7ed687022947bf3b",
+            "id": "32cd44eea508ba9f",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -54,7 +54,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#solaris",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -75,13 +75,11 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "47b0f043207f116f",
@@ -198,11 +196,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "7ed687022947bf3b",
+  "active": "32cd44eea508ba9f",
   "lastOpenFiles": [
-    "Session Notes/Session 2 - The Wings Of Kitzengen & Oderbrook.md",
-    "Session Notes/Session 3 - Ice tunnels, and the road to Oderbrook.md",
+    "Untitled.canvas",
     "Untitled.base",
+    "Session Notes/Session 3 - Ice tunnels, and the road to Oderbrook.md",
+    "Session Notes/Session 2 - The Wings Of Kitzengen & Oderbrook.md",
     "Welcome.md",
     "Session Notes",
     "2026-04-14.md",

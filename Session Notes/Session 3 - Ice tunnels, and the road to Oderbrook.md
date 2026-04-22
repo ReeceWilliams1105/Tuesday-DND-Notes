@@ -35,3 +35,4 @@ I find a Giant rune wrapped in a piece of metal, which is a symbol of cultural r
 
 An additional mark is present on the pendant rune, and appears to be a makers mark of #house-lotus. This appears to be a strong rune of control with abjuration magic imbued in it. When #elijah-elpayo points the rune at the door it closes. This appears to be the key to #the-ice-vaults and what the #fire-elemental members were trying to steal.
 
+On the body of the Magmin we found a femur bone. On the bone there is several metal rings. These have some writing on it in another language and there are gemstones in the rings. 
