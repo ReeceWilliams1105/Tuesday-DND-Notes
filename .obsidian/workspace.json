@@ -4,62 +4,81 @@
     "type": "split",
     "children": [
       {
-        "id": "705fdb182899db49",
-        "type": "tabs",
+        "id": "d0a26bbce4c1b2b9",
+        "type": "split",
         "children": [
           {
-            "id": "1b4eb596af096191",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Session Notes/Bob stuff.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "Bob stuff"
-            }
+            "id": "b44c13ca7f767fbe",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "6462362c3261643b",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Session Notes/Session 8 - Jack attack.md",
+                    "mode": "source",
+                    "source": false,
+                    "backlinks": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "Session 8 - Jack attack"
+                }
+              }
+            ]
           },
           {
-            "id": "0437db87ce71a2f4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Session Notes/Session 7 - Groblins gobblin.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
+            "id": "ffc536362ad98c3f",
+            "type": "split",
+            "children": [
+              {
+                "id": "83da0aec9df5b3dd",
+                "type": "tabs",
+                "children": [
+                  {
+                    "id": "c87157775d2a16a8",
+                    "type": "leaf",
+                    "state": {
+                      "type": "markdown",
+                      "state": {
+                        "file": "Session Notes/Session 7 - Groblins gobblin.md",
+                        "mode": "source",
+                        "source": false,
+                        "backlinks": false
+                      },
+                      "icon": "lucide-file",
+                      "title": "Session 7 - Groblins gobblin"
+                    }
+                  }
+                ]
               },
-              "icon": "lucide-file",
-              "title": "Session 7 - Groblins gobblin"
-            }
+              {
+                "id": "9cd3738463815f6e",
+                "type": "tabs",
+                "children": [
+                  {
+                    "id": "1b4eb596af096191",
+                    "type": "leaf",
+                    "state": {
+                      "type": "markdown",
+                      "state": {
+                        "file": "Session Notes/Bob stuff.md",
+                        "mode": "source",
+                        "source": false,
+                        "backlinks": false
+                      },
+                      "icon": "lucide-file",
+                      "title": "Bob stuff"
+                    }
+                  }
+                ]
+              }
+            ],
+            "direction": "horizontal"
           }
         ],
-        "currentTab": 1
-      },
-      {
-        "id": "c12c392c1df03e47",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "6462362c3261643b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Session Notes/Session 8.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "Session 8"
-            }
-          }
-        ]
+        "direction": "vertical"
       }
     ],
     "direction": "vertical"
@@ -116,7 +135,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "47b0f043207f116f",
@@ -233,27 +253,27 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "0437db87ce71a2f4",
+  "active": "6462362c3261643b",
   "lastOpenFiles": [
-    "Session Notes/Session 8.md",
+    "Session Notes/Session 1 - Durdledoor and the Tincup tavern.md",
+    "Session Notes/Session 2 - The Wings Of Kitzengen & Oderbrook.md",
+    "Session Notes/Session 3 - Ice tunnels, and the road to Oderbrook.md",
+    "Session Notes/Session 3.5 (Maybe) - Fire Giants in the tunnels!.md",
+    "Session Notes/Session 4 - Tom's Back!.md",
+    "Session Notes/Session 8 - Jack attack.md",
     "Session Notes/Session 7 - Groblins gobblin.md",
+    "Session Notes/Session 5 - The continuation!.md",
     "Session Notes/Session 6 - Through the portal, into the balls.md",
     "Session Notes/Bob stuff.md",
     "{6A920D12-AB93-4266-AB16-A27B45150968}.png",
-    "Session Notes/Session 3 - Ice tunnels, and the road to Oderbrook.md",
-    "Session Notes/Session 3.5 (Maybe) - Fire Giants in the tunnels!.md",
     "{1ADAFA2B-5ED2-43BF-82EF-EF832592116B}.png",
-    "Session Notes/Session 5 - The continuation!.md",
-    "Session Notes/Session 4 - Tom's Back!.md",
     "{7458EBEE-2D8F-43E9-8C69-E99AB8C04A7A}.png",
     "{343F951A-91C2-4613-9345-44A7DC144DD6}.png",
     "{CE7D0A9B-847B-40BD-A8B9-D9771B0F346D}.png",
     "Untitled.canvas",
     "Untitled.base",
-    "Session Notes/Session 2 - The Wings Of Kitzengen & Oderbrook.md",
     "Welcome.md",
     "Session Notes",
-    "2026-04-14.md",
-    "Session Notes/Session 1 - Durdledoor and the Tincup tavern.md"
+    "2026-04-14.md"
   ]
 }
