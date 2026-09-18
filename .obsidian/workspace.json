@@ -4,81 +4,25 @@
     "type": "split",
     "children": [
       {
-        "id": "d0a26bbce4c1b2b9",
-        "type": "split",
+        "id": "83da0aec9df5b3dd",
+        "type": "tabs",
         "children": [
           {
-            "id": "b44c13ca7f767fbe",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "6462362c3261643b",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Session Notes/Session 8 - Jack attack.md",
-                    "mode": "source",
-                    "source": false,
-                    "backlinks": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "Session 8 - Jack attack"
-                }
-              }
-            ]
-          },
-          {
-            "id": "ffc536362ad98c3f",
-            "type": "split",
-            "children": [
-              {
-                "id": "83da0aec9df5b3dd",
-                "type": "tabs",
-                "children": [
-                  {
-                    "id": "c87157775d2a16a8",
-                    "type": "leaf",
-                    "state": {
-                      "type": "markdown",
-                      "state": {
-                        "file": "Session Notes/Session 7 - Groblins gobblin.md",
-                        "mode": "source",
-                        "source": false,
-                        "backlinks": false
-                      },
-                      "icon": "lucide-file",
-                      "title": "Session 7 - Groblins gobblin"
-                    }
-                  }
-                ]
+            "id": "c87157775d2a16a8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Session Notes/Session 10 - The one Jonah forgot everything for.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
               },
-              {
-                "id": "9cd3738463815f6e",
-                "type": "tabs",
-                "children": [
-                  {
-                    "id": "1b4eb596af096191",
-                    "type": "leaf",
-                    "state": {
-                      "type": "markdown",
-                      "state": {
-                        "file": "Session Notes/Bob stuff.md",
-                        "mode": "source",
-                        "source": false,
-                        "backlinks": false
-                      },
-                      "icon": "lucide-file",
-                      "title": "Bob stuff"
-                    }
-                  }
-                ]
-              }
-            ],
-            "direction": "horizontal"
+              "icon": "lucide-file",
+              "title": "Session 10 - The one Jonah forgot everything for"
+            }
           }
-        ],
-        "direction": "vertical"
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +42,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": false
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -135,8 +81,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "47b0f043207f116f",
@@ -253,18 +198,20 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "6462362c3261643b",
+  "active": "c87157775d2a16a8",
   "lastOpenFiles": [
+    "Session Notes/Session 7 - Groblins gobblin.md",
+    "Session Notes/Bob stuff.md",
+    "Session Notes/Session 10 - The one Jonah forgot everything for.md",
+    "Session Notes/Session 9 - Cognor is here.md",
     "Session Notes/Session 1 - Durdledoor and the Tincup tavern.md",
+    "Session Notes/Session 8 - Jack attack.md",
+    "Session Notes/Session 5 - The continuation!.md",
+    "Session Notes/Session 4 - Tom's Back!.md",
+    "Session Notes/Session 6 - Through the portal, into the balls.md",
     "Session Notes/Session 2 - The Wings Of Kitzengen & Oderbrook.md",
     "Session Notes/Session 3 - Ice tunnels, and the road to Oderbrook.md",
     "Session Notes/Session 3.5 (Maybe) - Fire Giants in the tunnels!.md",
-    "Session Notes/Session 4 - Tom's Back!.md",
-    "Session Notes/Session 8 - Jack attack.md",
-    "Session Notes/Session 7 - Groblins gobblin.md",
-    "Session Notes/Session 5 - The continuation!.md",
-    "Session Notes/Session 6 - Through the portal, into the balls.md",
-    "Session Notes/Bob stuff.md",
     "{6A920D12-AB93-4266-AB16-A27B45150968}.png",
     "{1ADAFA2B-5ED2-43BF-82EF-EF832592116B}.png",
     "{7458EBEE-2D8F-43E9-8C69-E99AB8C04A7A}.png",
